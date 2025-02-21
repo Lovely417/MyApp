@@ -145,11 +145,5 @@ CompleteApp/
 
 ---
 
-## 📝 Notes
-
-- Ensure **Python**, **Node.js**, and **npm** are installed.
-- Use **Heroku** for backend hosting and **Vercel** for frontend hosting.
-- Modify `App.js` to update the API URL after deployment.
-
-Let me know if you need further assistance! 🚀
+## Author: Lovely Sharma
 
